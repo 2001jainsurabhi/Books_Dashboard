@@ -8,7 +8,7 @@ This interactive dashboard was created using Power BI to analyze and visualize c
 
 - 💰 **Total Revenue** and **Average Booking Price**
 - 🧑‍🤝‍🧑 **Bookings per Customer**
-- 📉 **Cancellation Rate** (To be fixed — currently blank)
+- 📉 **Cancellation Rate** 
 - 📅 **Booking Trends by Month**
 - 🧾 **Booking Status Distribution** (Confirmed vs Pending)
 - 📆 **Booking Date & Status Filters**
